@@ -1,4 +1,3 @@
 # FigureBed
 用于MakeDown图片上传的图床
 
-5311564e3490b42fe12a26d5afabc436f5383d54 
